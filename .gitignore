@@ -1,4 +1,5 @@
 # User-specific files
+*.giignore
 bin/
 /target
 *.db
@@ -8,7 +9,7 @@ bin/
 *.user
 
 *.sln.docstates
-*.giignore
+
 
 
 # Build results
