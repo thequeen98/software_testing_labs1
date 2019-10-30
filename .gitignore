@@ -8,7 +8,7 @@ bin/
 *.user
 
 *.sln.docstates
-
+*.giignore
 
 
 # Build results
@@ -178,7 +178,7 @@ _TeamCity*
 [Ee]xpress/
 
 
-
+Laba_3-4/packages/
 # DocProject is a documentation generator add-in
 
 DocProject/buildhelp/
